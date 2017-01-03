@@ -1,4 +1,4 @@
 # hello-world
 This is my first github project!
 
-And I tried to change something.
+It contains the "Hello World" program in the C programming language.
