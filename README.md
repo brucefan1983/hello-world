@@ -10,4 +10,5 @@ hello4.cu: A CUDA code printing "Hello World" from the device with block id and 
 ```
 
 Can I write equations here?
+
 $$ y = \int f(x) dx $$
