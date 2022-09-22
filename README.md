@@ -9,6 +9,6 @@ hello3.cu: A CUDA code printing "Hello World" from the device for multiple times
 hello4.cu: A CUDA code printing "Hello World" from the device with block id and thread id
 ```
 
-Can I write equations here?
+Can I write equations $x$ here?
 
 $$ y = \int f(x) dx $$
